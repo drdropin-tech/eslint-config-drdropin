@@ -10,7 +10,7 @@ Dr. Dropin [ESLint](https://eslint.org/) config
 
 ```
 (
-  export PKG=eslint-config-airbnb;
+  export PKG=@drdropin-tech/eslint-config-drdropin;
   npm info "$PKG@latest" peerDependencies --json | command sed 's/[\{\},]//g ; s/: /@/g' | xargs npm install --save-dev "$PKG@latest"
 )
 ```
