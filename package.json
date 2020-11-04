@@ -1,6 +1,6 @@
 {
   "name": "@drdropin-tech/eslint-config-drdropin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable ESLint config for Dr. Dropin",
   "main": "index.js",
   "repository": {
