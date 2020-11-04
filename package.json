@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-drdropin",
+  "version": "1.0.0",
+  "description": "Shareable ESLint config for Dr. Dropin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/drdropin-tech/eslint-config-drdropin.git"
+  },
+  "author": "Garth Bjerk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drdropin-tech/eslint-config-drdropin/issues"
+  },
+  "homepage": "https://github.com/drdropin-tech/eslint-config-drdropin#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.0.0"
+  }
+}
