@@ -1,3 +1,7 @@
+# eslint-config-drdropin
+
+Dr. Dropin [ESLint](https://eslint.org/) config
+
 ## Installing
 
 1. In your project folder, run:
