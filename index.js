@@ -5,7 +5,6 @@ module.exports = {
     "plugin:import/errors",
     "plugin:import/warnings",
     "prettier",
-    "prettier/react",
   ],
   plugins: [],
   rules: {
